@@ -1,2 +1,2 @@
-<h1> hi Welcome to Valaxy Technologies !!! </h1>
+<h1>  Welcome to Valaxy Technologies !!! this is commited page </h1>
 
